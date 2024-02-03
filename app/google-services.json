@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "661873361727",
+    "firebase_url": "https://kasijadi-1c304-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kasijadi-1c304",
+    "storage_bucket": "kasijadi-1c304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661873361727:android:b7965d6dffcf40e883c98a",
+        "android_client_info": {
+          "package_name": "com.example.kasijadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCai4XEnUZ7rT4shpsiB5JweFPc_PWZKJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
